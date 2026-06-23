@@ -1,6 +1,6 @@
-# My App
+# Task Tracker
 
-My App is a React 19 + TypeScript project built with Vite for fast local development and optimized production builds.
+Simple project where you can add, delete and complete tasks. Task Tracker is a React 19 + TypeScript project built with Vite for fast local development and optimized production builds. The rationale for building this was to refresh on my react skills. 
 
 ## Installation
 
